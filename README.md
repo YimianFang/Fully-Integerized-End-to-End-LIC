@@ -1,4 +1,6 @@
 # Fully-Integerized-End-to-End-LIC
+## Paper
+Fully Integerized End-to-End Learned Image Compression (DCC2023)
 
 ## Pytorch
 Codes for the proposed fully-integeried method on two state-of-the-art end-to-end LIC models, which are the scale hyperprior model and the autoregressive model.
